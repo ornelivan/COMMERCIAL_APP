@@ -44,4 +44,6 @@ Voici une présentation concise de votre **dashboard commercial d'analyse de ven
 **Technologies** : Streamlit (Python), Pandas, Altair/Matplotlib.  
 **Public** : Équipes commerciales, managers, analystes.  
 
-Besoin d’approfondir un point spécifique ? 😊
+MERCI 
+IVAN ORENL NGOUNOU ![logo2](https://github.com/user-attachments/assets/e24dc8da-2f5a-44c0-82df-ff59b869b814)
+
